@@ -1,4 +1,8 @@
-# guess-the-language-discord
+# Guess the Language
+
+Discord bot that uses the GitHub API to download gists (via `add-sources.js`)
+and provides a command where you select which language you think the source is.
+
 
 To install dependencies:
 
